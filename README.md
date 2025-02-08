@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning what I don't know about Flutter  🤣
 - 👯 I’m always looking to collaborate with others
-- 🥅 2023 Goals: Advancing my ML skills
+- 🥅 2025 Goals: Always learning and growing skills
